@@ -1,5 +1,5 @@
 {
-  "name": "contributte/psr6-caching",
+  "name": "skaut/psr6-caching",
   "description": "PSR-6 (Caching Interface) adapter for Nette Caching",
   "keywords": [
     "nette",
